@@ -13,8 +13,7 @@ theme:
      <h1>Nechama Bergman</h1>
      <p>Web developer specializing in Ruby on Rails applications with clean UX.</p>
   header_text_feature_image: 
-  footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+  footer_text:
 
   # Icons
   rss: false
