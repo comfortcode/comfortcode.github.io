@@ -1,5 +1,4 @@
-# My Jekyll Portfolio
-## Portfolio Kami Theme based on Type Theme
+# Nechama Bergman's Portfolio
 
-## License
-The MIT License (MIT)
+This site uses the Portfolio Kami Jekyll Theme based on the Type Jekyll Theme
+License: The MIT License (MIT)
