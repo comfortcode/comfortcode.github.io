@@ -6,7 +6,7 @@ url: "http://www.domain.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Nechama Bergman # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  description: "A personal portfolio website" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -38,7 +38,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-78897148-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
