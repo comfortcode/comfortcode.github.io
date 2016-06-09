@@ -9,9 +9,9 @@ theme:
   description: "A personal portfolio website" # used by search engines
 
   # Header and footer text
-  header_text: >
+  header_text:
      <h1>Nechama Bergman</h1>
-     <p>Web developer specializing in Ruby on Rails applications with clean UX.</p>
+     <p>Ruby on Rails developer with an appetite for great front-end design.</p>
   header_text_feature_image: 
   footer_text:
 
@@ -67,7 +67,7 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
