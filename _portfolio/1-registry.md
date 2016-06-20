@@ -6,7 +6,7 @@ tagline: Personalized Registry Application
 
 ---
 {:.center}
-![]({{ site.baseurl }}/img/registry2.jpg)
+![]({{ site.baseurl }}/img/registry.jpg)
 
 {:.center}
 _RegisterForAnything.com_ is a robust, easy-to-use website where users can add any product on the internet to a personalized registry page which can be shared with family and friends.
@@ -15,12 +15,12 @@ _RegisterForAnything.com_ is a robust, easy-to-use website where users can add a
 <a href="https://github.com/comfortcode/registry" target="_blank" class="button">View the Repository
   <i class="fa fa-fw fa-github"></i>
 </a>
-<a href="https://github.com/comfortcode/registry" target="_blank" class="button">View the App Live
+<a href="http://www.registerforanything.com/" target="_blank" class="button">View the App Live
   <i class="fa fa-fw fa-external-link-square"></i>
 </a>
 
 ## Overview
-???
+What started out an idea born from an informal brainstorming session turned into a full-fledged application. The application allows a user (an engaged couple) to create a personalized registry page where they can list products from anywhere on the internet. This allows the couple to share one link with family and friends instead of providing multiple links to registry pages on retailers’ websites. The idea was to create an easy-to-use, attractive application that makes it easy to register for items and allows maximum flexibility for the couple. 
 
 ## Integrated Gems and Services
 * Devise - User Authentication
@@ -48,12 +48,15 @@ _RegisterForAnything.com_ is a robust, easy-to-use website where users can add a
 * As a user, I want to see a **visual notification** when one or more items were marked as purchased by visitors. I also want to have the opportunity to dismiss the notification or to remove the “purchased” indicator(s) by marking the purchase(s) as spam 
 * As a visitor, I want to see how many of each item a user wants, and how many the user has already received
 * As a developer, I want to **validate** that items meet specific requirements.
-* As a developer, I want to **attach/create affiliate links** to the items and store links.
+* As a developer, I want to **attach affiliate links** to the items and store links.
  * As a user, I want to be **redirected to my registry after I sign-in**
  * As a user, I want to be redirected to the visitor’s view of my registry after I sign-out.
 
 ## Bonus Screenshots
-![]({{ site.baseurl }}/img/registry3.jpg)![]({{ site.baseurl }}/img/registry4.jpg)
+![]({{ site.baseurl }}/img/registry2.jpg)
+![]({{ site.baseurl }}/img/registry3.jpg)
+![]({{ site.baseurl }}/img/registry4.jpg)
+
 
 ## Conclusion
-?
+Developing this application was an enjoyable process of conceiving of and actually implementing the multiple features and user views for this application. I enlisted a co-developer to add javascript features (such as a web scraper and a loading bar) to enhance the User Experience. Designing every view of the application pushed my wireframing and front-end design skills to expand exponentially.

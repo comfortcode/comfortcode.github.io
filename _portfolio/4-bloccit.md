@@ -17,7 +17,7 @@ _Bloccit_ is a Reddit replica where users can post, vote on, share and save link
 <a href="https://github.com/comfortcode/bloccit" target="_blank" class="button">View the Repository
   <i class="fa fa-fw fa-github"></i>
 </a>
-<a href="https://github.com/comfortcode/registry" target="_blank" class="button">View the App Live
+<a href="https://bloccitnb-app.herokuapp.com/" target="_blank" class="button">View the App Live
   <i class="fa fa-fw fa-external-link-square"></i>
 </a>
 

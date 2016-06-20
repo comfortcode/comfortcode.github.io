@@ -15,7 +15,7 @@ _Didit_ is a task management application; with a feature that automatically remo
 <a href="https://github.com/comfortcode/didit" target="_blank" class="button">View the Repository
   <i class="fa fa-fw fa-github"></i>
 </a>
-<a href="https://github.com/comfortcode/registry" target="_blank" class="button">View the App Live
+<a href="https://didit-app.herokuapp.com/" target="_blank" class="button">View the App Live
   <i class="fa fa-fw fa-external-link-square"></i>
 </a>
 
@@ -39,10 +39,6 @@ Didit was the first project I created after completing the â€œFoundation Phaseâ€
 * As a user, I want to see how many days remain before a task is automatically deleted	
 * As a user, my to-dos should be automatically deleted seven days after their creation date
 * As a developer, I want to automate my delete Rake task to run each day
-
-## Bonus Screenshots
-???
-![]({{ site.baseurl }}/img/registry3.jpg)![]({{ site.baseurl }}/img/registry4.jpg)
 
 ## Conclusion
 Developing this application was an enjoyable opportunity to build up a simple CRUD application by implementing page redirects, login functionality and an automatic rake task to create a fully functional service to the user. I also enjoyed implementing a Bootstrap theme, and designing the to do list using Bootstrap and CSS to create an upgraded user experience. 

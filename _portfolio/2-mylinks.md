@@ -16,7 +16,7 @@ _Mylinks_ is a production quality social bookmarking application that allows use
 <a href="https://github.com/comfortcode/mylinks" target="_blank" class="button">View the Repository
   <i class="fa fa-fw fa-github"></i>
 </a>
-<a href="https://github.com/comfortcode/registry" target="_blank" class="button">View the App Live
+<a href="https://mylinks-app.herokuapp.com/" target="_blank" class="button">View the App Live
   <i class="fa fa-fw fa-external-link-square"></i>
 </a>
 
