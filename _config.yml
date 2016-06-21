@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "comfortcode.github.io" # the subpath of your site, e.g. /blog/
+baseurl: # "comfortcode.github.io" # the subpath of your site, e.g. /blog/
 url: "http://comfortcode.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
