@@ -59,4 +59,4 @@ What started out an idea born from an informal brainstorming session turned into
 
 
 ## Conclusion
-Developing this application was an enjoyable process of conceiving of and actually implementing the multiple features and user views. I enlisted a co-developer to add javascript features (such as a web scraper and a loading bar) to enhance the User Experience. Designing every view of the application pushed my wireframing and front-end design skills to expand exponentially.
+Developing this application was an enjoyable process of conceiving of and actually implementing multiple features and user views. I enlisted a co-developer to add javascript features (such as a web scraper and a loading bar) to enhance the User Experience. Designing every view of the application pushed my wireframing and front-end design skills to expand exponentially.
