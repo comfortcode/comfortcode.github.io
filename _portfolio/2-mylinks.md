@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Mylinks
-thumbnail-path: "img/mylinks.jpg"
+thumbnail-path: "img/mylinks.png"
 tagline: Social Bookmarking Application
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/mylinks.jpg)
+![]({{ site.baseurl }}/img/mylinks.png)
 
 {:.center}
 _Mylinks_ is a production quality social bookmarking application that allows users to email, manage and share bookmarked URLs.
