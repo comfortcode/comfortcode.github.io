@@ -47,10 +47,10 @@ What started out an idea born from an informal brainstorming session turned into
 * As a user, I want the ability to **delete my registry** from the application
 * As a user, I want to see a **visual notification** when one or more items were marked as purchased by visitors. I also want to have the opportunity to dismiss the notification or to remove the “purchased” indicator(s) by marking the purchase(s) as spam 
 * As a visitor, I want to see how many of each item a user wants, and how many the user has already received
-* As a developer, I want to **validate** that items meet specific requirements.
-* As a developer, I want to **attach affiliate links** to the items and store links.
+* As a developer, I want to **validate** that items meet specific requirements
+* As a developer, I want to **attach affiliate links** to the items and store links
  * As a user, I want to be **redirected to my registry after I sign-in**
- * As a user, I want to be redirected to the visitor’s view of my registry after I sign-out.
+ * As a user, I want to be redirected to the visitor’s view of my registry after I sign-out
 
 ## Bonus Screenshots
 ![]({{ site.baseurl }}/img/registry2.jpg)

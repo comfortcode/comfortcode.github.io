@@ -52,20 +52,20 @@ I developed Bloccit during the guided phase of Bloc’s Rails Web Development Ap
 * As a user, I want to **"like and unlike"** posts created by other users
 * As a user, I want to see a list on my personal profile of the posts and comments that I’ve created
 * As a developer, I want to **seed the development database** automatically with topics, posts and comments
-* As a developer, I want to **validate** that posts meet specific requirements (length etc.).
+* As a developer, I want to **validate** that posts meet specific requirements (length etc.)
 * As a user, I want to use **markdown syntax** to format my posts
 * As a developer, I want to display posts using any Markdown formatting
 * As a user I want to **upload a profile picture** to Bloccit
 * As a developer, I want to paginate results
 * As a user, I want to upvote and downvote posts
 * As a user, I want the ability to **flag a post as a "favorite"**
-* As a user, I want to receive an email when a new comment is added to a post that I favorited.
+* As a user, I want to receive an email when a new comment is added to a post that I favorited
 * As a user, I want the option to opt in or out of receiving emails from Bloccit
-* As a user, I want to see **public and private topics** and navigate to a private topic's URL.
+* As a user, I want to see **public and private topics** and navigate to a private topic's URL
 * As a visitor, I do not want to see private topics or navigate to a private topic's URL
 * As a user, I want to be **redirected** to the index of topics after I sign-in
 * As a user, if I previously voted, I want to see the up/down arrow icon to reflect that they I voted
-* As a visitor, I want to see a user's information, posts, and comments on the user’s profile page.
+* As a visitor, I want to see a user's information, posts, and comments on the user’s profile page
 * As a user, I want to see a page that displays **active posts** from the past 7 days
 * As a user, I want to see a page that displays the most **active users** (ranked by the number of posts plus comments that users have created)
 
