@@ -1,29 +1,29 @@
 ---
 layout: post
-title: Bloccit
-thumbnail-path: "img/bloccit2.png"
-tagline: Reddit Replica
-short-description: Bloccit is a Reddit replica for users to post, vote on, share and save links and comments.
+title: Feddit
+thumbnail-path: "img/feddit2.png"
+tagline: Family-Friendly Reddit Replica
+short-description: Feddit is an application where users can post, vote on, share and save family-friendly links and comments.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloccit3.jpg)
+![]({{ site.baseurl }}/img/feddit3.jpg)
 
 {:.center}
-_Bloccit_ is a Reddit replica where users can post, vote on, share and save links and comments.
+_Feddit_ is a Reddit replica where users can post, vote on, share and save family-friendly links and comments.
 
 {:.center}
-<a href="https://github.com/comfortcode/bloccit" target="_blank" class="button">View the Repository
+<a href="https://github.com/comfortcode/feddit" target="_blank" class="button">View the Repository
   <i class="fa fa-fw fa-github"></i>
 </a>
-<a href="https://bloccitnb-app.herokuapp.com/" target="_blank" class="button">View the App Live
+<a href="https://feddit-nb.herokuapp.com/" target="_blank" class="button">View the App Live
   <i class="fa fa-fw fa-external-link-square"></i>
 </a>
 
 ## Overview
 
-I developed Bloccit during the guided phase of Bloc’s Rails Web Development Apprenticeship. Each feature of this application was introduced as an opportunity to explore another aspect of Rails application development. Like Reddit, Bloccit is an application where users to create, vote on, and share posts; Bloccit also incorporates robust application features such as image and email integration to make for a complete, well-rounded product.
+I developed Feddit during the guided phase of Bloc’s Rails Web Development Apprenticeship. Each feature of this application was introduced as an opportunity to explore another aspect of Rails application development. Like Reddit, Feddit is an application where users to create, vote on, and share posts; Feddit also incorporates robust application features such as image and email integration to make for a complete, well-rounded product.
 
 ## Integrated Gems and Services
 * Devise - User Authentication
@@ -44,7 +44,7 @@ I developed Bloccit during the guided phase of Bloc’s Rails Web Development Ap
 ## User Stories
 
 * As a user, I want to **sign up** for a free account by providing a user name, password and email
-* As a user, I want to **sign in** and out of Bloccit
+* As a user, I want to **sign in** and out of Feddit
 * As a user, I want to see an index of all topics and their posts
 * As a user, I want to see an index of all posts and their comments
 * As a user, I want to **create multiple topics, posts and comments**
@@ -55,12 +55,12 @@ I developed Bloccit during the guided phase of Bloc’s Rails Web Development Ap
 * As a developer, I want to **validate** that posts meet specific requirements (length etc.)
 * As a user, I want to use **markdown syntax** to format my posts
 * As a developer, I want to display posts using any Markdown formatting
-* As a user I want to **upload a profile picture** to Bloccit
+* As a user I want to **upload a profile picture** to Feddit
 * As a developer, I want to paginate results
 * As a user, I want to upvote and downvote posts
 * As a user, I want the ability to **flag a post as a "favorite"**
 * As a user, I want to receive an email when a new comment is added to a post that I favorited
-* As a user, I want the option to opt in or out of receiving emails from Bloccit
+* As a user, I want the option to opt in or out of receiving emails from Feddit
 * As a user, I want to see **public and private topics** and navigate to a private topic's URL
 * As a visitor, I do not want to see private topics or navigate to a private topic's URL
 * As a user, I want to be **redirected** to the index of topics after I sign-in
