@@ -37,7 +37,7 @@ Didit was the first project I created after completing the â€œFoundation Phaseâ€
 * As a developer, I want to seed the development database automatically with users and tasks
 * As a user, I want to mark tasks as complete and have them deleted
 * As a user, I want to see how many days remain before a task is automatically deleted	
-* As a user, my to-dos should be automatically deleted seven days after their creation date
+* As a user, my tasks should be automatically deleted seven days after their creation date
 * As a developer, I want to automate my delete Rake task to run each day
 
 ## Conclusion
